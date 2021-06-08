@@ -35,7 +35,7 @@ func init() {
       &PromptCard{Prompt: `I can see the %s at the end of the %s.`},
       &PromptCard{Prompt: `A wise man once said: %s`},
       &PromptCard{Prompt: `Guardiola once said: %s`},
-      &PromptCard{Prompt: `$s ~$s 2021.`},
+      &PromptCard{Prompt: `$s ~ $s 2021.`},
  },
 
 		Responses: []ResponseCard{
